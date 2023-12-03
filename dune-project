@@ -6,15 +6,13 @@
 (generate_opam_files true)
 
 (source
- (github sixstring982/tanenbaum))
+ (github ProgramingIsTheFuture/AoC))
 
-(authors "Sixstring982")
+(authors "ProgramingIsTheFuture")
 
-(maintainers "Sixstring982")
+(maintainers "ProgramingIsTheFuture")
 
 (license BSD-3-Clause)
-
-(documentation https://sixstring982.github.io/tanenbaum)
 
 (package
  (name tanenbaum)

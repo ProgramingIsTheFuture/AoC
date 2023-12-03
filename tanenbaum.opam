@@ -2,13 +2,12 @@
 opam-version: "2.0"
 version: "0.1.0"
 synopsis: "OCaml Advent of Code starter project"
-maintainer: ["Sixstring982"]
-authors: ["Sixstring982"]
+maintainer: ["ProgramingIsTheFuture"]
+authors: ["ProgramingIsTheFuture"]
 license: "BSD-3-Clause"
 tags: ["advent-of-code"]
-homepage: "https://github.com/sixstring982/tanenbaum"
-doc: "https://sixstring982.github.io/tanenbaum"
-bug-reports: "https://github.com/sixstring982/tanenbaum/issues"
+homepage: "https://github.com/ProgramingIsTheFuture/AoC"
+bug-reports: "https://github.com/ProgramingIsTheFuture/AoC/issues"
 depends: [
   "ocaml"
   "reason"
@@ -32,4 +31,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/sixstring982/tanenbaum.git"
+dev-repo: "git+https://github.com/ProgramingIsTheFuture/AoC.git"
